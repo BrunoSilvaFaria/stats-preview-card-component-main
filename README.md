@@ -25,7 +25,7 @@ Foi proposto recriar o seguinte site, fazendo o mais semelhante possível, a par
 
 ## Demo da minha solução:
 
-- [Solução do desafio nome_desafop](link_desafio_git_page).
+- [Solução do desafio nome_desafio](https://brunosilvafaria.github.io/stats-preview-card-component-main/).
 
 ## Processo de desenvolvimento:
 
